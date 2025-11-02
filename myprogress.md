@@ -12,39 +12,39 @@
 - [x] Added reflection questions and healthcare analogies
 
 ### Phase 1.2 - Logistic Regression (Binary & Multiclass)
-- [ ] Implement binary logistic regression via gradient descent
-- [ ] Add softmax multiclass extension
-- [ ] Implement log-loss and regularization
-- [ ] Create ROC curves and decision boundary visualizations
-- [ ] Compare with scikit-learn LogisticRegression
+- [x] Implement binary logistic regression via gradient descent
+- [x] Add softmax multiclass extension
+- [x] Implement log-loss and regularization
+- [x] Create ROC curves and decision boundary visualizations
+- [x] Compare with scikit-learn LogisticRegression
 
 ### Phase 1.3 - Decision Trees & Random Forests
-- [ ] Implement CART splits (Gini, entropy)
-- [ ] Build tree construction algorithm
-- [ ] Add pruning heuristics and bagging
-- [ ] Compare with scikit-learn implementations
-- [ ] Analyze feature importance
+- [x] Implement CART splits (Gini, entropy)
+- [x] Build tree construction algorithm
+- [x] Add pruning heuristics and bagging
+- [x] Compare with scikit-learn implementations
+- [x] Analyze feature importance
 
 ### Phase 1.4 - KNN, K-Means, Hierarchical Clustering
-- [ ] Implement KNN classifier from scratch
-- [ ] Build K-means (Lloyd's algorithm)
-- [ ] Add hierarchical agglomerative clustering
-- [ ] Create cluster visualization and evaluation metrics
-- [ ] Compare with scikit-learn implementations
+- [x] Implement KNN classifier from scratch
+- [x] Build K-means (Lloyd's algorithm)
+- [x] Add hierarchical agglomerative clustering
+- [x] Create cluster visualization and evaluation metrics
+- [x] Compare with scikit-learn implementations
 
 ### Phase 1.5 - Naive Bayes & SVM
-- [ ] Implement Gaussian and Multinomial Naive Bayes
-- [ ] Build linear SVM via primal gradient descent
-- [ ] Compare generative vs discriminative approaches
-- [ ] Text classification baseline with Naive Bayes
-- [ ] SVM implementation and comparison
+- [x] Implement Gaussian and Multinomial Naive Bayes
+- [x] Build linear SVM via primal gradient descent
+- [x] Compare generative vs discriminative approaches
+- [x] Text classification baseline with Naive Bayes
+- [x] SVM implementation and comparison
 
 ### Phase 1.6 - PCA & Dimensionality Reduction
-- [ ] Implement PCA via SVD and eigen-decomposition
-- [ ] Calculate explained variance ratios
-- [ ] Visualize high-dimensional datasets
-- [ ] Compare with t-SNE/UMAP approaches
-- [ ] Apply to MNIST or word embeddings
+- [x] Implement PCA via SVD and eigen-decomposition
+- [x] Calculate explained variance ratios
+- [x] Visualize high-dimensional datasets
+- [x] Compare with t-SNE/UMAP approaches
+- [x] Apply to MNIST or word embeddings
 
 ### Phase 1.7 - Regularization: L1, L2, Dropout
 - [ ] Implement ridge and lasso regression (analytic + gradient)
@@ -54,11 +54,11 @@
 - [ ] Compare with scikit-learn implementations
 
 ### Phase 1.8 - Gradient Descent Variants: Momentum, Adam, RMSProp
-- [ ] Implement vanilla GD, momentum, Nesterov
-- [ ] Build RMSProp and Adam optimizers
-- [ ] Track parameter updates step-by-step
-- [ ] Compare convergence speed and stability
-- [ ] Train small NN with each optimizer
+- [x] Implement vanilla GD, momentum, Nesterov
+- [x] Build RMSProp and Adam optimizers
+- [x] Track parameter updates step-by-step
+- [x] Compare convergence speed and stability
+- [x] Train small NN with each optimizer
 
 ## Interludes (Parallel Learning)
 
